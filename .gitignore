@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-./build/*
-./vscode/*
-./data/*
-=======
 build/
 .vscode/
 data/
->>>>>>> 23a706f (First commit to initialize repository)
