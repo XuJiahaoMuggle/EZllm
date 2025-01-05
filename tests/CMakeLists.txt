@@ -1,0 +1,2 @@
+aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR} SRCS)
+set(TEST_SRCS ${SRCS} PARENT_SCOPE)
